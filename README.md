@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0189-rotate-array) |
+| [1518-water-bottles](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/1518-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
