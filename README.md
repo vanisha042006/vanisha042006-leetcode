@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0509-fibonacci-number) |
 | [1518-water-bottles](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/1518-water-bottles) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vanisha042006/vanisha042006-leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
