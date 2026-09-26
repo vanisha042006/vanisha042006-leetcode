@@ -1,18 +1,19 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> triangle=new ArrayList<>();
+        List<List<Integer>> result =new ArrayList<>();
         for(int i=0;i<numRows;i++){
-            List<Integer> rows=new ArrayList<>(Collections.nCopies(i+1,1));
-            for(int j=1;j<i;j++){
-                  rows.set(j, triangle.get(i - 1).get(j - 1) +
-                           triangle.get(i - 1).get(j));
-               
+            List<Integer> row=new ArrayList<>();
+            for(int j=0;j<=i;j++){
+                if(j==0||j==i){
+                    row.add(1);
+                }else{
+                    int value = result.get(i-1).get(j-1)+result.get(i-1).get(j);
+                    row.add(value);                    
+                }
             }
-            triangle.add(rows);
-
-           
+            result.add(row);
         }
-        return triangle;
+        return result;
         
     }
 }
